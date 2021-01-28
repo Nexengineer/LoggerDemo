@@ -1,6 +1,7 @@
 {
     "Values": {
-        "AzureWebJobsStorage": "removed"
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
     },
     "IsEncrypted": false
 }

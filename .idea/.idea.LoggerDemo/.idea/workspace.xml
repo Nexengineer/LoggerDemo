@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +26,12 @@
       <option value="$PROJECT_DIR$/LoggerDemo/ConfigFiles/appsettings.json" />
       <option value="$PROJECT_DIR$/LoggerDemo/Startup.cs" />
       <option value="$PROJECT_DIR$/LoggerDemo/host.json" />
-      <option value="$PROJECT_DIR$/LoggerDemo/LoggerDemo.csproj" />
       <option value="$PROJECT_DIR$/LoggerDemo/Logger/LoggerController.cs" />
       <option value="$PROJECT_DIR$/LoggerDemo/nlog.config" />
       <option value="$PROJECT_DIR$/LoggerDemo/.gitignore" />
-      <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/LoggerDemo/local.settings.json" />
+      <option value="$PROJECT_DIR$/LoggerDemo/LoggerDemo.csproj" />
+      <option value="$PROJECT_DIR$/.gitignore" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ndniWoTt4Mr5Dd53UTLH2VLOvU" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611728963131</updated>
       <workItem from="1611728972791" duration="6506000" />
-      <workItem from="1611748497918" duration="5571000" />
+      <workItem from="1611748497918" duration="5927000" />
     </task>
     <servers />
   </component>

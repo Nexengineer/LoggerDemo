@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[1.2.0, )"
             },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[3.1.10, )"

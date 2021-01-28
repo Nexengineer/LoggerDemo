@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WfV/5HgMkjEWWiWm+Sh3ocOqyQgsUxgAgmsocxOa1Ylr0FhMlf6MAl/BFUGvDS354JER9F4syngJsDKoP8Ul6Q==",
+  "dgSpecHash": "Dh01D+oeQH7aT2fmRvFTHC6w8tHCV3R5lbp82YXX71MKg2hmaV6sTAs7OD9n39BlxUoaTtgeC/b73J9MLqUpqg==",
   "success": true,
   "projectFilePath": "/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/LoggerDemo.csproj",
   "expectedPackageFiles": [
@@ -44,9 +44,9 @@
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.10/microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.10/microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.dependencymodel/2.1.0/microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
-    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.1.0/microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
-    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.fileproviders.physical/2.1.0/microsoft.extensions.fileproviders.physical.2.1.0.nupkg.sha512",
-    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.filesystemglobbing/2.1.0/microsoft.extensions.filesystemglobbing.2.1.0.nupkg.sha512",
+    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.10/microsoft.extensions.fileproviders.abstractions.3.1.10.nupkg.sha512",
+    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.10/microsoft.extensions.fileproviders.physical.3.1.10.nupkg.sha512",
+    "/Users/neerajmishra/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.10/microsoft.extensions.filesystemglobbing.3.1.10.nupkg.sha512",
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.hosting/2.1.0/microsoft.extensions.hosting.2.1.0.nupkg.sha512",
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.hosting.abstractions/2.1.0/microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
     "/Users/neerajmishra/.nuget/packages/microsoft.extensions.logging/3.1.10/microsoft.extensions.logging.3.1.10.nupkg.sha512",
