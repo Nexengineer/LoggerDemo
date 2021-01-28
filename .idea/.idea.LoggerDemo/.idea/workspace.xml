@@ -4,7 +4,9 @@
     <projectFile>LoggerDemo/LoggerDemo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="" />
+    <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611728963131</updated>
       <workItem from="1611728972791" duration="6506000" />
-      <workItem from="1611748497918" duration="7266000" />
+      <workItem from="1611748497918" duration="7569000" />
     </task>
     <servers />
   </component>
