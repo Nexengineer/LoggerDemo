@@ -4,11 +4,17 @@
     <projectFile>LoggerDemo/LoggerDemo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="" />
+    <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7F5DCC40-2F05-48D0-BC40-3EB47A24220A/1/LoggingServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -27,6 +33,7 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ndniWoTt4Mr5Dd53UTLH2VLOvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611728963131</updated>
       <workItem from="1611728972791" duration="6506000" />
-      <workItem from="1611748497918" duration="3731000" />
+      <workItem from="1611748497918" duration="4545000" />
     </task>
     <servers />
   </component>
@@ -79,6 +86,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

@@ -3,7 +3,6 @@
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="LoggerDemo" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="bin/Debug/netcoreapp3.1/bin" t="ExcludeRecursive" />
         <e p="ConfigFiles" t="Include">
           <e p="appsettings.json" t="Include" />
