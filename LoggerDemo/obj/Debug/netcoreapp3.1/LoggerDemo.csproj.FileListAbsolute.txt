@@ -45,3 +45,6 @@
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/NLog.Web.AspNetCore.dll
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/nlog.config
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/NLog.Targets.Splunk.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileSystemGlobbing.dll

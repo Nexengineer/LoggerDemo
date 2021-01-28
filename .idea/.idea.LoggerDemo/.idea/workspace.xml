@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="387a778e-3e1e-466b-b906-9107cc871d07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LoggerDemo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18FD0280-F595-4534-A864-9C11E9235D85/c1/35b4f3c1/Environment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7F5DCC40-2F05-48D0-BC40-3EB47A24220A/1/LoggingServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/18FD0280-F595-4534-A864-9C11E9235D85/21/Environment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LoggerDemo/Logger/LoggerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LoggerDemo/Startup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -27,11 +28,11 @@
       <option value="$PROJECT_DIR$/LoggerDemo/Startup.cs" />
       <option value="$PROJECT_DIR$/LoggerDemo/host.json" />
       <option value="$PROJECT_DIR$/LoggerDemo/Logger/LoggerController.cs" />
-      <option value="$PROJECT_DIR$/LoggerDemo/nlog.config" />
       <option value="$PROJECT_DIR$/LoggerDemo/.gitignore" />
       <option value="$PROJECT_DIR$/LoggerDemo/local.settings.json" />
-      <option value="$PROJECT_DIR$/LoggerDemo/LoggerDemo.csproj" />
       <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/LoggerDemo/LoggerDemo.csproj" />
+      <option value="$PROJECT_DIR$/LoggerDemo/nlog.config" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ndniWoTt4Mr5Dd53UTLH2VLOvU" />
@@ -79,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611728963131</updated>
       <workItem from="1611728972791" duration="6506000" />
-      <workItem from="1611748497918" duration="5927000" />
+      <workItem from="1611748497918" duration="7110000" />
     </task>
     <servers />
   </component>

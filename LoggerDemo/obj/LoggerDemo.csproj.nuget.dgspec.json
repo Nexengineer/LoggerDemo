@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[4.7.7, )"
             },
+            "NLog.Extensions.AzureEventHub": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[1.7.0, )"
