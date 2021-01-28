@@ -1,0 +1,16 @@
+2021-01-27 13:05:27.4608 Info Message Template Auto Format enabled
+2021-01-27 13:05:27.4654 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-27 13:05:27.5260 Info Adding target FileTarget(Name=allfile)
+2021-01-27 13:05:27.5275 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-27 13:05:27.5286 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-01-27 13:05:27.5304 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-01-27 13:05:27.6477 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=65, FilePath=/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/nlog.config
+2021-01-27 13:05:27.6671 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=65, FilePath=/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/nlog.config
+2021-01-27 13:06:00.8842 Info Message Template Auto Format enabled
+2021-01-27 13:06:00.8887 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-27 13:06:00.9473 Info Adding target FileTarget(Name=allfile)
+2021-01-27 13:06:00.9488 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-27 13:06:00.9496 Warn Skipping unrecognized property 'tolower=true` for ${level} (NLog.LayoutRenderers.LevelLayoutRenderer)
+2021-01-27 13:06:00.9513 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2021-01-27 13:06:01.0677 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=65, FilePath=/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/nlog.config
+2021-01-27 13:06:01.0859 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=65, FilePath=/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/nlog.config
