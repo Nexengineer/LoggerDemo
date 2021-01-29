@@ -16,7 +16,7 @@ namespace LoggerDemo
     {
         public override void Configure(IFunctionsHostBuilder builder)
         {
-            InitWithLogger(builder);
+            // InitWithLogger(builder);
             InitConfig(builder);
             InitDependencies(builder);
         }
@@ -37,10 +37,11 @@ namespace LoggerDemo
         {
             builder.Services
                 .AddHttpClient()
-                .AddLogging((loggingBuilder) =>
-                {
-                    loggingBuilder.AddNLog(new NLogProviderOptions() { ShutdownOnDispose = true });
-                })
+                .AddLogging()
+                //     (loggingBuilder) =>
+                // {
+                //     loggingBuilder.AddNLog(new NLogProviderOptions() { ShutdownOnDispose = true });
+                // })
                 .AddMvc();
         }
 

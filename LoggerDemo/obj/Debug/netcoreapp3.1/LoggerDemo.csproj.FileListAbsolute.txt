@@ -48,3 +48,13 @@
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileProviders.Abstractions.dll
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Azure.Amqp.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Azure.EventHubs.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.Azure.Services.AppAuthentication.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.IdentityModel.Logging.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/NLog.Extensions.AzureEventHub.dll
+/Users/neerajmishra/Desktop/LoggerDemo/LoggerDemo/bin/Debug/netcoreapp3.1/bin/System.IdentityModel.Tokens.Jwt.dll

@@ -25,14 +25,14 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/LoggerDemo/ConfigFiles/appsettings.json" />
-      <option value="$PROJECT_DIR$/LoggerDemo/Startup.cs" />
       <option value="$PROJECT_DIR$/LoggerDemo/host.json" />
-      <option value="$PROJECT_DIR$/LoggerDemo/Logger/LoggerController.cs" />
       <option value="$PROJECT_DIR$/LoggerDemo/.gitignore" />
       <option value="$PROJECT_DIR$/LoggerDemo/local.settings.json" />
       <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/LoggerDemo/LoggerDemo.csproj" />
       <option value="$PROJECT_DIR$/LoggerDemo/nlog.config" />
+      <option value="$PROJECT_DIR$/LoggerDemo/Startup.cs" />
+      <option value="$PROJECT_DIR$/LoggerDemo/Logger/LoggerController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1ndniWoTt4Mr5Dd53UTLH2VLOvU" />
@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611728963131</updated>
       <workItem from="1611728972791" duration="6506000" />
-      <workItem from="1611748497918" duration="7569000" />
+      <workItem from="1611748497918" duration="8056000" />
     </task>
     <servers />
   </component>

@@ -25,7 +25,7 @@ namespace LoggerDemo.Logger
             logger.LogInformation($"Demo logger Information: {DateTime.Now}");
             logger.LogError($"Demo logger Error: {DateTime.Now}");
             logger.LogCritical($"Demo logger Critical: {DateTime.Now}");
-            return new AcceptedResult();
+            return new OkObjectResult("Logging succesfull");
         }
     }
 }
